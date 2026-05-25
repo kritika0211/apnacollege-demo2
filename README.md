@@ -1,4 +1,4 @@
 # apnacollege-demo2
 This is my first git repository
 <br>
-Author-kritika
+Author-kritika(AI Engineer)
